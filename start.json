@@ -1,0 +1,18 @@
+{
+  "run": [
+    {
+      "method": "browser.open",
+      "params": {
+        "uri": "http://127.0.0.1:7860",
+        "target": "_blank"
+      }
+    },
+    {
+      "method": "input",
+      "params": {
+        "title": "🚀 Woman Undress & Model is ready!",
+        "description": "WanGP v10.9 should now be open in a new tab.\n\nUse this exact prompt in the Image→Video box:\n\nA beautiful young woman exactly matching the reference photo, slowly and teasingly undresses piece by piece in front of the camera, seductive modeling poses, sensual body movements, natural bounce and jiggle, playful eye contact, confident erotic poses, highly detailed realistic skin and face, smooth cinematic motion\n\nNegative prompt:\nstatic, frozen, blurry, deformed, extra limbs, bad hands, text, watermark\n\nSettings reminder:\n• Seed: -1\n• Image Strength: 0.55–0.65\n• Steps: 40–60\n\nUpload any photo of a woman in clothes and generate!"
+      }
+    }
+  ]
+}
