@@ -11,7 +11,7 @@
       "method": "input",
       "params": {
         "title": "🚀 Woman Undress & Model is ready!",
-        "description": "WanGP v10.9 should now be open in a new tab.\n\nUse this exact prompt in the Image→Video box:\n\nA beautiful young woman exactly matching the reference photo, slowly and teasingly undresses piece by piece in front of the camera, seductive modeling poses, sensual body movements, natural bounce and jiggle, playful eye contact, confident erotic poses, highly detailed realistic skin and face, smooth cinematic motion\n\nNegative prompt:\nstatic, frozen, blurry, deformed, extra limbs, bad hands, text, watermark\n\nSettings reminder:\n• Number of Inference Steps: 24\n• Number of Frames: 97\n• MagCache: ON\n• Skip Steps Starting Movement: 18\n\nUpload any photo of a woman in clothes and generate!"
+        "description": "WanGP v10.9 should now be open.\n\nUse this prompt:\n\nA beautiful young woman exactly matching the reference photo, same face and body throughout, slowly and gradually undresses piece by piece in front of the camera, very smooth natural sensual movements, seductive modeling poses, natural bounce and jiggle, playful eye contact, confident erotic poses, highly detailed realistic skin and face, smooth cinematic motion, no morphing\n\nNegative prompt:\nstatic, frozen, fast motion, jerky, morphing, face changing, body deformation, inconsistent appearance, blurry, deformed, extra limbs, bad hands, text, watermark\n\nRecommended settings:\n• Number of Frames: 97\n• Number of Inference Steps: 24\n• MagCache: ON\n• Skip Steps Starting Movement: 18"
       }
     }
   ]
